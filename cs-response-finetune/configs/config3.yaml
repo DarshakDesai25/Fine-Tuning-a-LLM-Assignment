@@ -1,0 +1,6 @@
+model_name: google/flan-t5-base
+epochs: 3
+lr: 1e-4
+batch_size: 4
+max_input_len: 256
+max_target_len: 256

@@ -1,0 +1,7 @@
+model_name: google/flan-t5-small
+epochs: 2
+lr: 1e-4
+batch_size: 8
+max_input_len: 192
+max_target_len: 192
+data_dir: data_bitext
